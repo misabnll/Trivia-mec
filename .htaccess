@@ -1,0 +1,25 @@
+RewriteEngine on
+RewriteCond %{SCRIPT_FILENAME} !-d [OR]
+RewriteCond %{SCRIPT_FILENAME} !-f
+#Link
+RewriteRule ^session/?$ login.php
+RewriteRule ^my-scores/?$ my-scores.php
+RewriteRule ^edit-records/?$ edit-records.php
+RewriteRule ^start-game/?$ index.php
+RewriteRule ^game/?$ game.php
+RewriteRule ^add-question/?$ themes/pages/add-question.php
+RewriteRule ^edit-question/?$ themes/pages/edit-question.php
+RewriteRule ^add-categories/?$ themes/pages/add-categories.php
+RewriteRule ^view-categories/?$ themes/pages/view-categories.php
+RewriteRule ^view-gamers/?$ themes/pages/view-gamers.php
+RewriteRule ^edit-categories/?$ themes/pages/edit-categories.php
+#Modules
+RewriteRule ^action/?$ controllers/login_controllers.php
+RewriteRule ^home/?$ themes/pages/home.php
+
+Options All -Indexes
+#ErrorDocument 400 /error400.php
+#ErrorDocument 401 /error401.php
+#ErrorDocument 403 /error403.php
+#ErrorDocument 404 /error404.php
+#ErrorDocument 500 /error500.php
