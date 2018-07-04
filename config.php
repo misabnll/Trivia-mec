@@ -1,4 +1,5 @@
 <?php
+//Cambiar con tu db
 define('DB_NAME', 'triviamec');
 /** MySQL database username */
 define('DB_USER', 'root');
