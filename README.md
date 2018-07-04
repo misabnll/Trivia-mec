@@ -9,7 +9,7 @@ Password: Root2018
 
 Notas:
 La clave del sistema para acceder a administrador esta encriptada con el siguiente script.
-<?php echo password_hash("Root2018", PASSWORD_BCRYPT)."\n"; ?>
+<?php echo password_hash("Root2018", PASSWORD_BCRYPT)."\n"; ?>.
 La cual genera un hash en la db.
 
 Asegurece que su apache este activo el modulo mod_rewrite
