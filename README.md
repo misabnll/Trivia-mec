@@ -25,7 +25,7 @@ De tener dificultad escriba a este correo:
 misabnll@gmail.com
 
 JUEGO ONLINE PARA PROBARLO!!
-http://trivia-mec.todocontenidos.net/
+Lamentablmente ya no tengo un demo de este juego, puesto que no renove más el dominio. Instalen local para probar.
 
 SALUDOS!!
 
