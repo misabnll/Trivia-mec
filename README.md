@@ -29,7 +29,3 @@ Lamentablmente ya no tengo un demo de este juego, puesto que no renove más el d
 
 SALUDOS!!
 
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/Ciborg2019/Trivia-mec/badge.svg?style=beer-square)](https://beerpay.io/Ciborg2019/Trivia-mec)  [![Beerpay](https://beerpay.io/Ciborg2019/Trivia-mec/make-wish.svg?style=flat-square)](https://beerpay.io/Ciborg2019/Trivia-mec?focus=wish)
